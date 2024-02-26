@@ -1,0 +1,3 @@
+Frodo era um pequeno hobbit (pessoinhas pequenas e de pés peludos) que vivia tranquilamente no Condado, tomando seus vários cafés da manhã recheados de muitos alimentos suculentos que a dieta de um bom hobbit proporciona.
+Certo dia, seu tio Bilbo lhe entrega seu famoso anel dourado, e Gandalf, um mago muito “bacanudo”, diz a Frodo que esse anel não era normal e que deveria ser jogado na Montanha da Perdição, para que um grande mal fosse evitado. Para essa jornada, foi formada uma comitiva, composta de anões, elfos, humanos, hobbits e magos.
+Frodo deseja saber a quantidade de cada raça que irá com ele para a jornada. Dada uma lista das pessoas que se alistaram, faça um relatório para Frodo da comitiva. 
